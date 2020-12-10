@@ -1,0 +1,5 @@
+{
+    "require": {
+        "scato/phpeg": "1.0.2"
+    }
+}

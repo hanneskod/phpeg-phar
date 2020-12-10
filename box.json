@@ -1,0 +1,9 @@
+{
+    "output": "phpeg.phar",
+    "directories": [
+        "vendor"
+    ],
+    "main": "vendor/bin/phpeg",
+    "algorithm": "SHA512",
+    "chmod": "0555"
+}
