@@ -1,4 +1,6 @@
 COMPOSER_CMD=composer
+PHIVE_CMD=phive
+
 BOX_CMD=tools/box
 
 .DEFAULT_GOAL=build

@@ -3,7 +3,7 @@
     "directories": [
         "vendor"
     ],
-    "main": "vendor/bin/phpeg",
+    "main": "main.php",
     "algorithm": "SHA512",
     "chmod": "0555"
 }
