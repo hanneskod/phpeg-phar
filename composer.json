@@ -1,5 +1,5 @@
 {
     "require": {
-        "scato/phpeg": "dev-master"
+        "scato/phpeg": "dev-master#f73a57c62896c7294ae8e71652405789a5f035f2"
     }
 }

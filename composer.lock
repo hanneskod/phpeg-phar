@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a62df374b17cfb8763b2263fc605f77",
+    "content-hash": "c478b87e528b33fdefb0690546a0aaf6",
     "packages": [
         {
             "name": "psr/log",
@@ -62,12 +62,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/scato/phpeg.git",
-                "reference": "0f473362cc518055d25205539c3a781dc7c9f0f1"
+                "reference": "f73a57c62896c7294ae8e71652405789a5f035f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scato/phpeg/zipball/0f473362cc518055d25205539c3a781dc7c9f0f1",
-                "reference": "0f473362cc518055d25205539c3a781dc7c9f0f1",
+                "url": "https://api.github.com/repos/scato/phpeg/zipball/f73a57c62896c7294ae8e71652405789a5f035f2",
+                "reference": "f73a57c62896c7294ae8e71652405789a5f035f2",
                 "shasum": ""
             },
             "require": {

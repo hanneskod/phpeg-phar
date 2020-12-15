@@ -7,5 +7,5 @@ Builds are downloaded from the [releases](https://github.com/hanneskod/phpeg-pha
 Usage with phive
 
 ```shell
-phive install hanneskod/phpeg-phar --force-accept-unsigned
+phive install hanneskod/phpeg-phar
 ```
